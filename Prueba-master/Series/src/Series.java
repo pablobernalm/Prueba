@@ -47,7 +47,6 @@ public class Series implements Entregable{
 		
 	}
 
-	
 	public void devolver() {
 		entregado=false;
 		
